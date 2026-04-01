@@ -25,8 +25,8 @@ Botão de Limpeza Rápida: Reset imediato do chat para novas consultas.
 
 # 🛠️ Como Executar o Projeto
 Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/GuilhermeJobs/assistente-powerbi-ai/
+cd assistente-powerbi-ai/
 
 Instale as dependências:
 pip install -r requirements.txt
